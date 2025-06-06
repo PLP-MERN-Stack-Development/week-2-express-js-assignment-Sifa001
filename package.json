@@ -1,0 +1,27 @@
+{
+  "name": "week-2-express-js-assignment-sifa001",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-Sifa001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-Sifa001/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-Sifa001#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1",
+    "uuid": "^11.1.0"
+  }
+}
